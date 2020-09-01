@@ -20,7 +20,7 @@ PS C:\demo> python curl.py http://localhost:8000
 </html>
 ```
 
-## Dumm curl
+## Dummy curl
 ```
 PS C:\demo> python curl.py https://google.com
 <!doctype html><html itemscope=""...
